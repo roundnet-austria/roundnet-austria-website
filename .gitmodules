@@ -1,0 +1,9 @@
+[submodule "public"]
+	path = public
+	url = ./public/
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/roundnet-austria"]
+	path = themes/roundnet-austria
+	url = https://github.com/qloikp/hugo-theme-roundnet-austria.git

@@ -1,0 +1,47 @@
+{
+   "baseURL": "http://www.roundnetaustria.eu/",
+   "languageCode": "en-us",
+   "title": "Roundnet Austria",
+   "theme": "roundnet-austria",
+   "copyright": "Roundnet Austria",
+   
+   "DefaultContentLanguage": "de",
+   "SectionPagesMenu": "main",
+   "Paginate": 10,
+   "enableRobotsTXT": true,
+
+   "sitemap": {
+      "changefreq": "monthy",
+      "priority": 0.5,
+      "filename": "sitemap.xml"
+   },
+
+   "params": {
+      "title": "Roundnet Austria",
+      "favicon": "",
+      "site_logo": "",
+      "description": "Description",
+      "facebook": "https://www.facebook.com/roundnetaustria",
+      "twitter": "",
+      "instagram": "https://www.instagram.com/roundnet_austria/",
+      "github": "",
+      "background_color_class": "bg-red",
+      "recent_posts_number": 3
+   },
+
+   "languages": {
+      "en": {
+         "params": {
+            "description": "Roundnetsport in Austria"
+         }
+      },
+
+      "de": {
+         "params": {
+            "description": "Österreichischer Roundnetsport"
+         }
+      }
+
+   }
+
+}
