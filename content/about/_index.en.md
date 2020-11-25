@@ -1,8 +1,25 @@
 ---
 title: "Organization"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
+description: ""
+weight: 10
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+# The Idea
+
+Roundnet Austria is a Project or rather an **idea**. There are few distinct facts but a common spirit of Austrians who engange in Roudnnet and work towards a common goal.
+
+# The Goal
+
+Roundnet Austria exists to foster and develeop the sport of Roundnet in Austria. The goal is to spread the Sport to the general public.
+
+# The Organization (Fachverband)
+
+To provide additional transparency and structure for this goal, Roundnet Austria is going to get **official** / **legal** structures by founding of an organization (Fachverband). This is especially beneficial in regards to state subsidies.
+
+# The Plan
+
+All, who want to contribute to this project, have some ideas or just want to keep informed are more than welcome to do this:
+
+[//]: # (TODO ADD MITMACHEN BUTTON)
+
+{{% cta-button icon="fab fa-google" href="https://google.com" %}}take me to Google{{% /cta-button %}}

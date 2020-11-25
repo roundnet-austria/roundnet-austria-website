@@ -1,9 +1,35 @@
 ---
 title: "Verband"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
+#description: ""
 weight: 10
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+# Die Idee
+
+Roundnet Austria ist zur Zeit ein freies/unstrukturiertes Projekt oder vielmehr eine **Idee**. Es gibt noch nichts/wenig tatsächlich greifbares. Eine Idee von einigen, die sich in Österreich mit dem Roundnet Sport beschäftigen und ein gemeinsames Ziel verfolgen.
+
+# Das Ziel
+
+Roundnet Austria gibt es, um den Roundnet-Sport in Österreich zu fördern und zu entwicklen. Es geht darum viele für den Sport zu begeistern und den Sport allgemein bekannter zu machen.
+
+# Der Fachverband
+
+Um für diese Idee zusätzliche Klarheit, Transparenz und Offenheit zu schaffen, soll Roundnet Austria auch **offizielle** Strukturen in Form der Gründung eines Fachverbandes bekommen. Dies ist insbesondere für offizielle Förderungen hilfreich.
+
+# Der Plan
+
+Alle, die sich an diesem Projekt beteiligen wollen, ihre Ideen einbringen möchten oder nur informiert bleiben möchten sind herzlich eingeladen dies zu tun.
+
+{{<raw-html>}}
+<p><a class="link button cta" href='{{< relref "#mitmachen" >}}'>Mitmachen</a></p>
+{{</raw-html>}}
+
+# Das Vorgehen
+Wir möchten allen interessierten die Möglichkeit und vor allem genug Zeit dazu geben, sich mit dem Thema auseinander zu setzen und selbst Ideen / Vorstellungen und ein eigenes Bild von der Idee hinter Roundnet Austria zu entwickeln.
+
+# Die Gründung
+Anfang 2020 (im Februar / März) möchten wir mit möglichst vielen der Interessierten bei einem gemeinsamen Treffen über die Gründung eines **offiziellen** Fachverbandes diskutieren beziehungsweise den Fachverband bereits gründen.
+
+---
+
+# Mitmachen

@@ -1,6 +1,7 @@
 ---
 title: "Roundnet Austria"
-featured_image: ""
+featured_image: "/ra_logo.png"
 description: "Österreichischer Roundnet Sport"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+Dieser Text wird auf der Startseite angezeigt.
