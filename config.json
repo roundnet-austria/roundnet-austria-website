@@ -23,13 +23,13 @@
          {
             "identifier": "impressum",
             "name": "Impressum",
-            "url": "/imprint/",
+            "url": "/pages/imprint/",
             "weight": 2
          },
          {
             "identifier": "about",
             "name": "Verband",
-            "url": "/about/",
+            "url": "/pages/about/",
             "weight": 1
          }
       ]
