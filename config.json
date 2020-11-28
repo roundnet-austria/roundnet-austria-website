@@ -6,6 +6,7 @@
    "copyright": "Roundnet Austria",
    
    "DefaultContentLanguage": "de",
+   "disableLanguages": ["en"],
    "SectionPagesMenu": "",
    "Paginate": 10,
    "enableRobotsTXT": true,
@@ -36,8 +37,8 @@
 
    "params": {
       "title": "Roundnet Austria",
-      "favicon": "",
-      "site_logo": "",
+      "favicon": "/icon-32x32.png",
+      "site_logo": "/icon-32x32.png",
       "facebook": "https://www.facebook.com/roundnetaustria",
       "twitter": "",
       "instagram": "https://www.instagram.com/roundnet_austria/",
@@ -64,6 +65,13 @@
          }
       }
 
+   },
+
+   "taxonomies": {
+      "category": "categories",
+      "tag": "tags",
+      "series": "series",
+      "maincards": "maincards"
    }
 
 }

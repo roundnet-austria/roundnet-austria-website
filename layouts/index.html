@@ -1,4 +1,39 @@
 {{ define "main" }}
+
+  <!--
+  <ul>
+    {{ range .Site.Taxonomies.maincards }}
+            <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
+    {{ end }}
+  </ul> -->
+
+
+
+  <!--
+  <section>
+    <ul id="all-taxonomies">
+        {{ range $taxonomy_term, $taxonomy := .Site.Taxonomies }}
+            {{ with $.Site.GetPage (printf "/%s" $taxonomy_term) }}
+                <li><a href="{{ .Permalink }}">{{ $taxonomy_term }}</a>
+                    <ul>
+                        {{ range $key, $value := $taxonomy }}
+                            <li>{{ $key }}</li>
+                            <ul>
+                                {{ range $value.Pages }}
+                                    <li hugo-nav="{{ .RelPermalink}}">
+                                        <a href="{{ .Permalink}}">{{ .LinkTitle }}</a>
+                                    </li>
+                                {{ end }}
+                            </ul>
+                        {{ end }}
+                    </ul>
+                </li>
+            {{ end }}
+        {{ end }}
+    </ul>
+  </section>
+  -->
+
   <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
     {{ .Content }}
   </article>
@@ -52,4 +87,38 @@
 
       </div>
   {{ end }}
+
+  {{ $array := slice "communities" "partners" }}
+  {{ range $elem_val := $array }}
+      
+  
+
+  {{ $taxo := "maincards" }}
+
+  <article class="cf pa3 pa4-m pa4-l">
+    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links mid-gray">
+      <p>{{ humanize $elem_val | upper }} </p>
+    </div>
+  </article>
+  <div class="mw9 center">
+    <!-- <section class="flex-auto flex-wrap justify-around mt5"> -->
+      <section style="display: flex; flex-direction: row; flex-wrap: wrap; flex: 1; gap: 1rem;">
+      {{ with ($.Site.GetPage (printf "/%s" $elem_val)) }}
+          {{ range .Pages }}
+              <!-- <div class="flex-grow-1-l h-100 mb4 mr4 bg-white">-->
+              <div style="flex: 1 0 400px; padding: 0 1rem;" class="bg-white mb4 relative h-100">
+                {{ if eq $elem_val "partners"}}
+                  {{ partial "partners.html" . }}
+                {{ else }}
+                  {{ partial "communities.html" . }}
+                {{ end }}
+              </div>
+          {{ end }}
+      {{ end }}
+    </section>
+  </div>
+  {{ end }}
+
+
+
 {{ end }}

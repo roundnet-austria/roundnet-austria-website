@@ -1,6 +1,8 @@
 ---
 title: "Wien"
-#description: ""
+maincards: ["communities"]
+featured_image: "/logos/vienna_roundnet_logo.jpg"
+weight: 1
+facebook: "https://www.facebook.com/Wiener.Roundnet/"
 ---
-
-Markdown Text für Wien
+Erster Wiener Roundnetverein

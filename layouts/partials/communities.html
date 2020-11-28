@@ -1,0 +1,55 @@
+{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+
+        <article class="bb b--black-10 grow" >
+        <div class="db pv4 ph3 ph0-l no-underline dark-gray">
+            <div class="flex flex-column flex-row-ns">
+            {{ if $featured_image }}
+                {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+                {{ $featured_image := (trim $featured_image "/") | absURL }}
+                <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+                <a href="{{.Permalink}}" class="db">
+                    <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
+                </a>
+                </div>
+            {{ end }}
+            <div class="blah w-100{{ if $featured_image }} w-60-ns pl3-ns{{ end }}">
+                <h1 class="f3 fw1 athelas mt0 lh-title">
+                <a href="{{.Permalink}}" class="color-inherit dim link">
+                    {{ .Title }}
+                    </a>
+                </h1>
+                <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+                {{ .Summary }}
+                </div>
+                <!-- 
+                <a href="{{.Permalink}}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a>
+                {{/* TODO: add author
+                <p class="f6 lh-copy mv0">By {{ .Author }}</p> */}} ---->
+                <div class="db communities-social">
+                    {{ $icon_size := "32px" }}
+                    {{ with .Params.facebook }}
+                    <a href="{{ . }}" 
+                       
+                       target="_blank" class="link-transition facebook link dib z-999 pt0-l mt2 mr1" title="Facebook link" rel="noopener" aria-label="follow on Facebook——Opens in a new window">
+                    {{ partial "svg/facebook.svg" (dict "size" $icon_size) }}
+                    {{ end }}
+            
+                    {{ with .Params.instagram }}
+                    <a href="{{ . }}"
+                        
+                        target="_blank" class="link-transition instagram link dib z-999 pt0-l mt2 mr1" title="Instagram link" rel="noopener" aria-label="follow on Instagram——Opens in a new window">
+                    {{ partial "svg/instagram.svg" (dict "size" $icon_size) }}
+                    {{ end }}
+                    </a>
+                    {{ with .Params.youtube }}
+                    <a href="{{ . }}" target="_blank" class="link-transition youtube link dib z-999 pt3 pt0-l mr1" title="Youtube link" rel="noopener" aria-label="follow on Youtube——Opens in a new window">
+                      {{ partial "svg/youtube.svg" (dict "size" $icon_size) }}
+                    </a>
+                    {{ end }}
+            
+                </div>
+            </div>
+            </div>
+        </div>
+
+    </article>
