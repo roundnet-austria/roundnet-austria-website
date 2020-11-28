@@ -10,8 +10,8 @@ Es gibt zwei Arten, wie diese Webseite bearbeitet werden kann:
 
 ### Content
 
-siehe /content/README.md
+siehe [/content/README.md](content/README.md)
 
 ### Gestaltung und Funktionen
 
-siehe /layout/README.md
+siehe [/layout/README.md](layout/README.md)
