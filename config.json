@@ -2,7 +2,7 @@
    "baseURL": "http://www.roundnetaustria.eu/",
    "languageCode": "de-de",
    "title": "Roundnet Austria",
-   "theme": "roundnet-austria",
+   "theme": "custom",
    "copyright": "Roundnet Austria",
    
    "DefaultContentLanguage": "de",
