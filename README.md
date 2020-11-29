@@ -1,6 +1,7 @@
 # static-roundnet-austria
-Sources for the Website of Roundnet Austria
+Sources/Repository der Webseite von Roundnet Austria
 
+![Sample](/static/features/new-website.png)
 
 # Mitmachen
 
