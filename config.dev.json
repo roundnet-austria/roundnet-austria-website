@@ -1,0 +1,76 @@
+{
+    "baseURL": "https://roundnetaustria-dev.netlify.app",
+    "languageCode": "de-de",
+    "title": "Roundnet Austria Develop",
+    "theme": "custom",
+    "copyright": "Roundnet Austria",
+    
+    "DefaultContentLanguage": "de",
+    "disableLanguages": ["en"],
+    "SectionPagesMenu": "",
+    "Paginate": 10,
+    "enableRobotsTXT": true,
+    "enableInlineShortcodes": true,
+ 
+    "sitemap": {
+       "changefreq": "monthy",
+       "priority": 0.5,
+       "filename": "sitemap.xml"
+    },
+ 
+    "menu": {
+       "main": [
+          {
+             "identifier": "about",
+             "name": "Über uns",
+             "url": "/pages/about/",
+             "weight": 1
+          },
+          {
+             "identifier": "impressum",
+             "name": "Impressum",
+             "url": "/pages/imprint/",
+             "weight": 2
+          }
+       ]
+    },
+ 
+    "params": {
+       "title": "Roundnet Austria",
+       "favicon": "/icon-32x32.png",
+       "site_logo": "/icon-512x512.png",
+       "facebook": "https://www.facebook.com/roundnetaustria",
+       "instagram": "https://www.instagram.com/roundnet_austria/",
+       "contact": "https://docs.google.com/forms/d/e/1FAIpQLSeY1bgaYEcSbES6UgYoGtspS-5mqEEphZUHmMvZsV2kGmqn_w/viewform?usp=sf_link",
+       "mail": "mailto:roundnetaustria@gmail.com",
+       "background_color_class": "bg-red",
+       "recent_posts_number": 3,
+       "featured_image": "/ra_logo.png",
+       "custom_css": [
+          "css/_social-icons.css",
+          "css/overrides.css"
+       ]
+    },
+ 
+    "languages": {
+       "en": {
+          "params": {
+             "description": "Roundnetsport in Austria"
+          }
+       },
+ 
+       "de": {
+          "params": {
+             "description": "Österreichischer Roundnetsport"
+          }
+       }
+ 
+    },
+ 
+    "taxonomies": {
+       "category": "categories",
+       "tag": "tags",
+       "series": "series"
+    }
+ 
+ }
