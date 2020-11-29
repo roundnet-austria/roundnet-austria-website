@@ -21,16 +21,16 @@
    "menu": {
       "main": [
          {
+            "identifier": "about",
+            "name": "Über uns",
+            "url": "/pages/about/",
+            "weight": 1
+         },
+         {
             "identifier": "impressum",
             "name": "Impressum",
             "url": "/pages/imprint/",
             "weight": 2
-         },
-         {
-            "identifier": "about",
-            "name": "Verband",
-            "url": "/pages/about/",
-            "weight": 1
          }
       ]
    },
@@ -38,11 +38,11 @@
    "params": {
       "title": "Roundnet Austria",
       "favicon": "/icon-32x32.png",
-      "site_logo": "/icon-32x32.png",
+      "site_logo": "/icon-512x512.png",
       "facebook": "https://www.facebook.com/roundnetaustria",
-      "twitter": "",
       "instagram": "https://www.instagram.com/roundnet_austria/",
-      "github": "",
+      "contact": "https://docs.google.com/forms/d/e/1FAIpQLSeY1bgaYEcSbES6UgYoGtspS-5mqEEphZUHmMvZsV2kGmqn_w/viewform?usp=sf_link",
+      "mail": "mailto:roundnetaustria@gmail.com",
       "background_color_class": "bg-red",
       "recent_posts_number": 3,
       "featured_image": "/ra_logo.png",
@@ -70,8 +70,7 @@
    "taxonomies": {
       "category": "categories",
       "tag": "tags",
-      "series": "series",
-      "maincards": "maincards"
+      "series": "series"
    }
 
 }

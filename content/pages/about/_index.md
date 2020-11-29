@@ -2,6 +2,7 @@
 title: "Verband"
 #description: ""
 weight: 10
+type: "single"
 ---
 
 # Die Idee
@@ -27,9 +28,19 @@ Alle, die sich an diesem Projekt beteiligen wollen, ihre Ideen einbringen möcht
 # Das Vorgehen
 Wir möchten allen interessierten die Möglichkeit und vor allem genug Zeit dazu geben, sich mit dem Thema auseinander zu setzen und selbst Ideen / Vorstellungen und ein eigenes Bild von der Idee hinter Roundnet Austria zu entwickeln.
 
-# Die Gründung
-Anfang 2020 (im Februar / März) möchten wir mit möglichst vielen der Interessierten bei einem gemeinsamen Treffen über die Gründung eines **offiziellen** Fachverbandes diskutieren beziehungsweise den Fachverband bereits gründen.
-
 ---
 
 # Mitmachen
+
+Dein Interesse ist geweckt? Super, es gibt unterschiedliche Weisen, auf die du aktiv werden kannst:
+
+## Unterstützen
+Das wichtigste ist es, möglichst allen Roundnet Begeisterten die Möglichkeit zu geben sich einzubringen. Deshalb ist das hilfreichste was du aktuell tun kannst: Mit allen reden, die du kennst und die vielleicht Interesse daran haben Roundnet Austria aktiv zu unterstützen.
+
+## Informiert bleiben
+Was passiert alles bei Roundnet Austria? Welche Fragen werden diskutiert? Wie soll es weitergehen?
+Lass dich dich über die Social Media Kanäle mit Neuigkeiten versorgen.
+ 
+
+## Mitgestalten
+Wie soll die Zukunft des Roundnet Sport in Österreich aussehen? Welche Rolle sollen Vereine, Communities und Einzelpersonen dabei spielen? Welche Möglichkeiten der Förderung gibt es? Wie kann Roundnet als Sportart in Österreich annerkannt werden? Wie soll die Zusammenarbeit zwischen Roundnet Austria und den Vereinen geregelt sein? Welche Schritte sind für eine Fachverbandsgründung notwenig? Was ist überhaupt ein Fachverband? Diese und viele weitere Fragen gilt es in den kommenden Wochen, Monaten und vielleicht auch Jahren zu beantworten.

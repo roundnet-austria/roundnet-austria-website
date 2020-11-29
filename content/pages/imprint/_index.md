@@ -2,6 +2,7 @@
 title: "Impressum"
 description: "Österreichischer Roundnetsport / Ole Hagenah"
 weight: 100
+type: "page"
 ---
 
 

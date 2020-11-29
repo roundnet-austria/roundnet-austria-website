@@ -3,6 +3,18 @@
   fill: white;
 }
 
-.communities-social .facebook, .twitter, .instagram, .youtube, .github, .gitlab, .keybase, .linkedin, .medium, .mastodon, .slack, .stackoverflow, .rss {
+.communities-social .facebook,
+.communities-social .twitter,
+.communities-social .instagram,
+.communities-social .youtube,
+.communities-social .github,
+.communities-social .gitlab,
+.communities-social .keybase,
+.communities-social .linkedin,
+.communities-social .medium,
+.communities-social .mastodon,
+.communities-social .slack,
+.communities-social .stackoverflow,
+.communities-social .rss {
   fill: grey;
 }

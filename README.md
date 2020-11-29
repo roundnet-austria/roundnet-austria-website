@@ -8,15 +8,15 @@ Es gibt zwei Arten, wie diese Webseite bearbeitet werden kann:
 * Beiträge / Content
 * Gestaltung und Funktionen / Layout
 
-Generell ist funktioniert diese Webseite mit hugo. Mehr dazu gibt es [hier](https://gohugo.io/about/)
+Generell funktioniert diese Webseite mit hugo. Mehr dazu gibt es [hier](https://gohugo.io/about/)
 
 ## Content
 
-siehe [/content/README.md](content/README.md)
+siehe [/content/README.md](content/)
 
 ## Gestaltung und Funktionen
 
-siehe [/layouts/README.md](layouts/README.md)
+siehe [/layouts/README.md](layouts/)
 
 
 ### Mehrsprachigkeit

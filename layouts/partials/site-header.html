@@ -4,8 +4,9 @@
   {{ $featured_image := (trim $featured_image "/") | absURL }}
   <header class="contain bg-top">
     <div>
+      
       {{ partial "site-navigation.html" .}}
-      <div class="contain bg-top tc-l pv4 pv6-l ph3 ph4-ns" style="margin-top: 64px; background-image: url('{{ $featured_image }}'); background-size: contain;">
+      <div class="contain bg-top tc-l pv4 pv6-l ph5 ph4-ns" style="margin-top: 96px; background-image: url('{{ $featured_image }}'); background-size: contain;">
         <h1 class="f2 f-subheadline-l fw2 mb0 lh-title">
           <!--{{ .Title | default .Site.Title }}-->
         </h1>
