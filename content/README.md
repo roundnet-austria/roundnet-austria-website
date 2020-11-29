@@ -28,4 +28,4 @@ Diese werden auf der Startseite als Kacheln dargestellt.
 
 ### Post
 
-Beiträge
+Hier können allgemeine Beiträge geschrieben werden.  

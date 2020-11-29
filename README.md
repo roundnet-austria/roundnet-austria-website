@@ -15,7 +15,12 @@ Es gibt zwei Arten, wie diese Webseite bearbeitet werden kann:
 
 Generell funktioniert diese Webseite mit hugo. Mehr dazu gibt es [hier](https://gohugo.io/about/)
 
+## Änderungen durchführen
 
+Die folgenden Informationen über "Standard Funktionen" sollen einen Einblick geben, wie an der Webseite mitgearbeitet werden kann.
+
+
+  
 # Sonstige Punkte
 
 
