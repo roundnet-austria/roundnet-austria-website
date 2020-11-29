@@ -10,21 +10,23 @@ Sources/Repository der Webseite von Roundnet Austria
 # Mitmachen
 
 Es gibt zwei Arten, wie diese Webseite bearbeitet werden kann:
-* Beiträge / Content
-* Gestaltung und Funktionen / Layout
+* Beiträge / Seiten / Content: [/content/README.md](content/)
+* Gestaltung und Funktionen / Layout [/layouts/README.md](layouts/)
 
 Generell funktioniert diese Webseite mit hugo. Mehr dazu gibt es [hier](https://gohugo.io/about/)
 
-## Content
+## Änderungen durchführen
 
-siehe [/content/README.md](content/)
-
-## Gestaltung und Funktionen
-
-siehe [/layouts/README.md](layouts/)
+Die folgenden Informationen über "Standard Funktionen" sollen einen Einblick geben, wie an der Webseite mitgearbeitet werden kann.
 
 
-### Mehrsprachigkeit
+  
+# Sonstige Punkte
 
-Ist zur Zeit deaktiviert, wenn sich jemand findet, die Struktur und entsprechenden Content-Files (`*.en.md`) sind teilweise schon vorbereitet.
+
+## Mehrsprachigkeit
+
+Ist zur Zeit deaktiviert.
+Wenn sich jemand findet um die Beiträge zu übersetzen ..  die Struktur und entsprechenden Content-Files (`*.en.md`) sind teilweise schon vorbereitet.
 Aktivieren geht im [`config.json`](/config.json) durch löschen der Zeile: `disableLanguages": ["en"]`.
+Sonst "muss" für jedes Content-File ein übersetztes File mit der neuen Endung: `*.en.md` angelegt werden.
