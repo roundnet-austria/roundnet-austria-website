@@ -1,5 +1,5 @@
 ---
-title: "Verband"
+title: "Über uns"
 #description: ""
 weight: 10
 type: "single"
@@ -21,9 +21,7 @@ Um für diese Idee zusätzliche Klarheit, Transparenz und Offenheit zu schaffen,
 
 Alle, die sich an diesem Projekt beteiligen wollen, ihre Ideen einbringen möchten oder nur informiert bleiben möchten sind herzlich eingeladen dies zu tun.
 
-{{<raw-html>}}
-<p><a class="link button cta" href='{{< relref "#mitmachen" >}}'>Mitmachen</a></p>
-{{</raw-html>}}
+
 
 # Das Vorgehen
 Wir möchten allen interessierten die Möglichkeit und vor allem genug Zeit dazu geben, sich mit dem Thema auseinander zu setzen und selbst Ideen / Vorstellungen und ein eigenes Bild von der Idee hinter Roundnet Austria zu entwickeln.
@@ -44,3 +42,7 @@ Lass dich dich über die Social Media Kanäle mit Neuigkeiten versorgen.
 
 ## Mitgestalten
 Wie soll die Zukunft des Roundnet Sport in Österreich aussehen? Welche Rolle sollen Vereine, Communities und Einzelpersonen dabei spielen? Welche Möglichkeiten der Förderung gibt es? Wie kann Roundnet als Sportart in Österreich annerkannt werden? Wie soll die Zusammenarbeit zwischen Roundnet Austria und den Vereinen geregelt sein? Welche Schritte sind für eine Fachverbandsgründung notwenig? Was ist überhaupt ein Fachverband? Diese und viele weitere Fragen gilt es in den kommenden Wochen, Monaten und vielleicht auch Jahren zu beantworten.
+
+{{<raw-html>}}
+<p><a class="link button cta" href="https://docs.google.com/forms/d/e/1FAIpQLSeY1bgaYEcSbES6UgYoGtspS-5mqEEphZUHmMvZsV2kGmqn_w/viewform?usp=sf_link" target="_blank">Mitmachen</a></p>
+{{</raw-html>}}
