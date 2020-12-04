@@ -2,7 +2,7 @@ master: [![Netlify Status](https://api.netlify.com/api/v1/badges/78a068f7-ef79-4
 
 develop: [![Netlify Status](https://api.netlify.com/api/v1/badges/94757cb0-1004-462b-b1f5-7ac3ab8b80f9/deploy-status)](https://app.netlify.com/sites/roundnetaustria-dev/deploys)
 
-# static-roundnet-austria
+# roundnet-austria-website
 Sources/Repository der Webseite von Roundnet Austria
 
 ![Sample](/static/features/new-website.png)
