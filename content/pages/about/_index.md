@@ -7,7 +7,7 @@ type: "single"
 
 # Die Idee
 
-Roundnet Austria ist zur Zeit ein freies/unstrukturiertes Projekt oder vielmehr eine **Idee**. Es gibt noch nichts/wenig tatsächlich greifbares. Eine Idee von einigen, die sich in Österreich mit dem Roundnet Sport beschäftigen und ein gemeinsames Ziel verfolgen.
+Roundnet Austria ist zur Zeit ein freies/unstrukturiertes Projekt oder vielmehr eine **Idee**. Es gibt noch wenig tatsächlich greifbares. Eine Idee von einigen, die sich in Österreich mit dem Roundnet Sport beschäftigen und ein gemeinsames Ziel verfolgen.
 
 # Das Ziel
 
