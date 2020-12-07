@@ -1,7 +1,7 @@
 [build]
 publish = "public"
 # command = "hugo --gc --minify" # default branch
-command = "hugo --config config.dev.json --gc --minify"
+command = "hugo --config config.dev.json --gc --minify" # develop
 
 [context.production.environment]
 HUGO_VERSION = "0.78.2"

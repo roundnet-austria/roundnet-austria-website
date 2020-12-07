@@ -2,4 +2,4 @@
 
 Hier soll beschrieben stehen, wie Layout und Funktion(en) angepasst werden können.
 
-TODO: do!
+> Ist ein wenig komplizierter ... Erfahrungen mit hugo, css und html sollten vorhanden sein. Detaillierte Infos gibt es bei (hugo)[https://gohugo.io] .
