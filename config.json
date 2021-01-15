@@ -6,7 +6,6 @@
    "copyright": "Roundnet Austria",
    
    "DefaultContentLanguage": "de",
-   "disableLanguages": ["en"],
    "SectionPagesMenu": "",
    "Paginate": 10,
    "enableRobotsTXT": true,
@@ -55,7 +54,7 @@
    "languages": {
       "en": {
          "params": {
-            "description": "Roundnetsport in Austria"
+            "description": "Roundnet in Austria"
          }
       },
 
