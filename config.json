@@ -1,6 +1,6 @@
 {
    "baseURL": "https://www.roundnetaustria.eu/",
-   "languageCode": "de-de",
+   "languageCode": "de-en",
    "title": "Roundnet Austria",
    "theme": "custom",
    "copyright": "Roundnet Austria",
@@ -54,7 +54,7 @@
    "languages": {
       "en": {
          "params": {
-            "description": "Roundnetsport in Austria"
+            "description": "Roundnet in Austria"
          }
       },
 
