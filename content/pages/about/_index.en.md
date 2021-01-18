@@ -4,22 +4,18 @@ description: ""
 weight: 10
 ---
 
-# The Idea
+# Who are we?
 
-Roundnet Austria is a Project or rather an **idea**. There are few distinct facts but a common spirit of Austrians who engange in Roudnnet and work towards a common goal.
+We are a group of roundnet players dedicated to raising Roundnet in Austria to the next level.
 
-# The Goal
+# Our Goal
 
-Roundnet Austria exists to foster and develeop the sport of Roundnet in Austria. The goal is to spread the Sport to the general public.
+Roundnet Austria exists to foster and develeop the sport of Roundnet in Austria. The goal is to spread the Sport to the general public. Our immediate goal is to get **official** / **legal** structures by founding of an organization (Fachverband).
 
-# The Organization (Fachverband)
+# Want to Contribute?
 
-To provide additional transparency and structure for this goal, Roundnet Austria is going to get **official** / **legal** structures by founding of an organization (Fachverband). This is especially beneficial in regards to state subsidies.
+If you want to contribute register for the first general assembly of Roundnet Austria:
 
-# The Plan
-
-All, who want to contribute to this project, have some ideas or just want to keep informed are more than welcome to do this:
-
-[//]: # (TODO ADD MITMACHEN BUTTON)
-
-{{% cta-button icon="fab fa-google" href="https://google.com" %}}take me to Google{{% /cta-button %}}
+{{<raw-html>}}
+<p><a class="link button cta" href="https://forms.gle/jW3fmBAtqKkezc3m6" target="_blank">General Assembly</a></p>
+{{</raw-html>}}
