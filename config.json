@@ -17,23 +17,6 @@
       "filename": "sitemap.xml"
    },
 
-   "menu": {
-      "main": [
-         {
-            "identifier": "about",
-            "name": "Über uns",
-            "url": "/pages/about/",
-            "weight": 1
-         },
-         {
-            "identifier": "impressum",
-            "name": "Impressum",
-            "url": "/pages/imprint/",
-            "weight": 2
-         }
-      ]
-   },
-
    "params": {
       "title": "Roundnet Austria",
       "favicon": "/icon-32x32.png",
@@ -55,12 +38,44 @@
       "en": {
          "params": {
             "description": "Roundnet in Austria"
+         },
+         "menu": {
+            "main": [
+               {
+                  "identifier": "about",
+                  "name": "about",
+                  "url": "/pages/about/",
+                  "weight": 1
+               },
+               {
+                  "identifier": "impressum",
+                  "name": "imprint",
+                  "url": "/pages/imprint/",
+                  "weight": 2
+               }
+            ]
          }
       },
 
       "de": {
          "params": {
             "description": "Österreichischer Roundnetsport"
+         },
+         "menu": {
+            "main": [
+               {
+                  "identifier": "about",
+                  "name": "Über uns",
+                  "url": "/pages/about/",
+                  "weight": 1
+               },
+               {
+                  "identifier": "impressum",
+                  "name": "Impressum",
+                  "url": "/pages/imprint/",
+                  "weight": 2
+               }
+            ]
          }
       }
 
