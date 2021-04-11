@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-description: "Österreichischer Roundnetsport / Ole Hagenah"
+description: "ÖSTERREICHISCHEN ROUNDNET-SPORT VERBAND (ROUNDNET AUSTRIA)"
 weight: 100
 type: "page"
 ---
