@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EUSRA on Roundnet Austria</title>
+    <link>https://www.roundnetaustria.eu/tags/eusra/</link>
+    <description>Recent content in EUSRA on Roundnet Austria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Roundnet Austria</copyright>
+    <lastBuildDate>Thu, 10 Oct 2019 09:00:00 +0100</lastBuildDate><atom:link href="https://www.roundnetaustria.eu/tags/eusra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oktober 2019 - Mitarbeit EUSRA</title>
+      <link>https://www.roundnetaustria.eu/post/2019-10-10-joining-eusra/</link>
+      <pubDate>Thu, 10 Oct 2019 09:00:00 +0100</pubDate>
+      
+      <guid>https://www.roundnetaustria.eu/post/2019-10-10-joining-eusra/</guid>
+      <description>Seit Oktober unterstützt Roundnet Austria die EUSRA als aktives Mitglied!</description>
+    </item>
+    
+    <item>
+      <title>Juni 2019</title>
+      <link>https://www.roundnetaustria.eu/post/2019-06-15-recognition/</link>
+      <pubDate>Sat, 15 Jun 2019 09:00:00 +0100</pubDate>
+      
+      <guid>https://www.roundnetaustria.eu/post/2019-06-15-recognition/</guid>
+      <description>Roundnet Austria wird von der EUSRA als Recognized Community anerkannt!</description>
+    </item>
+    
+  </channel>
+</rss>

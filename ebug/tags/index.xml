@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Roundnet Austria</title>
+    <link>https://www.roundnetaustria.eu/tags/</link>
+    <description>Recent content in Tags on Roundnet Austria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Roundnet Austria</copyright>
+    <lastBuildDate>Sun, 17 Jan 2021 16:00:00 +0100</lastBuildDate><atom:link href="https://www.roundnetaustria.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>generalversammlung</title>
+      <link>https://www.roundnetaustria.eu/tags/generalversammlung/</link>
+      <pubDate>Sun, 17 Jan 2021 16:00:00 +0100</pubDate>
+      
+      <guid>https://www.roundnetaustria.eu/tags/generalversammlung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>history</title>
+      <link>https://www.roundnetaustria.eu/tags/history/</link>
+      <pubDate>Sun, 17 Jan 2021 16:00:00 +0100</pubDate>
+      
+      <guid>https://www.roundnetaustria.eu/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EUSRA</title>
+      <link>https://www.roundnetaustria.eu/tags/eusra/</link>
+      <pubDate>Thu, 10 Oct 2019 09:00:00 +0100</pubDate>
+      
+      <guid>https://www.roundnetaustria.eu/tags/eusra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recognition</title>
+      <link>https://www.roundnetaustria.eu/tags/recognition/</link>
+      <pubDate>Thu, 10 Oct 2019 09:00:00 +0100</pubDate>
+      
+      <guid>https://www.roundnetaustria.eu/tags/recognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

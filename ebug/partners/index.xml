@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partners on Roundnet Austria</title>
+    <link>https://www.roundnetaustria.eu/partners/</link>
+    <description>Recent content in Partners on Roundnet Austria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Roundnet Austria</copyright><atom:link href="https://www.roundnetaustria.eu/partners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spikeball Roundnet Association</title>
+      <link>https://www.roundnetaustria.eu/partners/sra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.roundnetaustria.eu/partners/sra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EUSRA</title>
+      <link>https://www.roundnetaustria.eu/partners/eusra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.roundnetaustria.eu/partners/eusra/</guid>
+      <description>European Spikeball Roundnet Association</description>
+    </item>
+    
+  </channel>
+</rss>
